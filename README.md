@@ -40,4 +40,4 @@ acta-cogitationis/
 
 ## Privacy note
 
-This repo is private until the author decides otherwise.
+This repo is public.
